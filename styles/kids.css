@@ -110,6 +110,33 @@
   border-radius: 8px;
   border: none;
   }
+
+  /*Card Section*/
+
+  /* .card-sec{ */
+   .sc{
+    text-align: center;
+   }
+   .card-cont{
+    display: flex;
+    max-width: 1440px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 64%;
+    gap: 0px;
+    padding: 0 0;
+    
+    gap: 32px;
+   }
+
+
+
+
+
+
+
+
   /*responsive media query*/
 
   @media screen and (max-width: 576px) {
